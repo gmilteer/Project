@@ -1,0 +1,107 @@
+<<<<<<< HEAD
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border;
+}
+body {
+    line-height: 1.7em;
+    font-size: 25px;
+    background-image: url("./Assets/Covid-Project-1.jpg"); 
+    
+}
+#homeLink {
+    color: whitesmoke;
+}
+.pure-menu-horizontal {
+text-align: right;
+font-family: 'Times New Roman', Times, serif;
+}
+.pure-menu-link {
+    color: black;
+}
+#menuLink1 {
+    color: whitesmoke;
+}
+.pure-menu-children {
+    color: black;
+}
+.splash-container {
+    z-index: 1;
+    text-align: center;
+    color: yellow;
+    width: 100%;
+    height: 100%;
+    top: 10;
+    left: 10;
+    position: fixed !important;
+    font-weight: 500;
+}
+.splash {
+    width: 80%;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    top: 100px; left: 0;bottom: 0;right: 0;
+    text-align: center;
+
+}
+.pure-img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+.pure-button {
+    background-color: white;
+    color: green;
+    padding: 0.5em 2em;
+   border-radius: 10px;
+
+}
+
+
+=======
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://www.gavi.org/sites/default/files/background-image/2020/woman-with-latex-gloves-adjusting-her-face-mask-4298016_h1_hdr.jpg);
+
+}
+
+.pure-menu {
+    background-color: white;
+    opacity: .7;
+    height: 60px;
+}
+
+.pure-menu-list {
+    padding-top: 12px;
+    margin-left: 10px;
+
+}
+
+.pure-g {
+    text-align: center;
+    color: white;
+    margin-top: 15rem;
+}
+
+h1 {
+    font-size: 72px;
+    margin-bottom: 0;
+    color: #e7717d;
+}
+
+p {
+    font-size: 20px;
+}
+
+input {
+    text-align: center;
+    background-color: white;
+    opacity: .7;
+
+}
+
+input:hover {
+    opacity: .8;
+}
+>>>>>>> 00e62762368622b3c4e87bbe4841856ca2b901d8
